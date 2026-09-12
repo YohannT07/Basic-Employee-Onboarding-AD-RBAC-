@@ -11,7 +11,7 @@ To resolve these critical access control vulnerabilities, I architected and depl
 
 
 ## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
+https://www.loom.com/share/c9aaaf6681e04be9b0a612e78998be7f
 
 ## Tools Used
 * Windows Server
